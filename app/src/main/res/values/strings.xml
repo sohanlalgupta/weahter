@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="error">Something went wrong at our end!</string>
+</resources>
